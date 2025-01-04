@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UIX-GPT/static/css/main.6e1641a6.css",
-    "main.js": "/UIX-GPT/static/js/main.dd1ed421.js",
+    "main.js": "/UIX-GPT/static/js/main.203583ec.js",
     "static/media/ai.png": "/UIX-GPT/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/possibility.png": "/UIX-GPT/static/media/possibility.525f13b61a2157d44de0.png",
     "static/media/blog01.png": "/UIX-GPT/static/media/blog01.cefc0932eae0d33a0342.png",
@@ -13,10 +13,10 @@
     "static/media/logo.svg": "/UIX-GPT/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/UIX-GPT/index.html",
     "main.6e1641a6.css.map": "/UIX-GPT/static/css/main.6e1641a6.css.map",
-    "main.dd1ed421.js.map": "/UIX-GPT/static/js/main.dd1ed421.js.map"
+    "main.203583ec.js.map": "/UIX-GPT/static/js/main.203583ec.js.map"
   },
   "entrypoints": [
     "static/css/main.6e1641a6.css",
-    "static/js/main.dd1ed421.js"
+    "static/js/main.203583ec.js"
   ]
 }
